@@ -1,0 +1,5 @@
+{
+  "name": "OR Plan",
+  "description": "Una aplicación web que genera planes de entrenamiento de running personalizados utilizando IA para corredores de todos los niveles.",
+  "requestFramePermissions": []
+}
